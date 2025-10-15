@@ -967,9 +967,7 @@ main {
 /*-----------------------------------*\
   #PORTFOLIO
 \*-----------------------------------*/
-.filter-list button.active {
-  color: var(--orange-yellow-crayola);
-}
+
 .filter-list {
   display: none;
 }
